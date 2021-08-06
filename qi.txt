@@ -1,0 +1,8 @@
+quantum cryptography
+graphql and qml collaborations for context based internet
+dwave servers
+quantum entanglement for communication
+5000 qubit networking
+routers
+dynamic ip tracing and monitoring
+os for quantum internet
